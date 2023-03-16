@@ -1,13 +1,8 @@
 # T3_Visualizacion
-# Este repositorio replican y analizan algunas gráficas que muestran la relación entre diferentes variables usando datos preinstalados en R.
-📖 Datos utilizados
+# Estudiante: " Maria Betsabe Arcos López "
+Fecha : " 2023-03-15 "
+#Analisis inferencial basico para usar en el repositorio en la replicacion y la analizacion de graficas que muestren la relacion entre diferentes variables usando datos en R.🤷‍
 
- # Instalar librerías requeridas
- biblioteca ( readr )
- biblioteca ( RCurl )
- biblioteca ( ggplot2 )
- biblioteca ( dplyr )
- biblioteca ( ggpubr )
- biblioteca ( conjuntos de datos )
- biblioteca ( rejillaExtra )
+#Libreria  usada
+ 
  
